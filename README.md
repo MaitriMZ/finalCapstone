@@ -1,8 +1,4 @@
-# finalCapstone
-This is my README file
-
 # USArrests Unsupervised Learning Dataset
-## Project Name - USArrests Unsupervised Learning Dataset
 
 ## Table of Contents
 * Introduction    
